@@ -23,6 +23,8 @@ El proyecto comprende la resolución de 10 ejercicios, cada uno diseñado para a
 https://github.com/migayalach/Exercise-Matrix-Java-OOP.git
 2. Abre el proyecto en tu entorno de desarrollo preferido.
 3. Ejecuta el archivo `Main.java` ubicado en el paquete `matrices`.
+4. Guia de ejerccios =>
+    ./flowchart/practica.pdf
 
 *Espero que este proyecto sea beneficioso para aquellos programadores que están dando sus primeros pasos al igual que yo en Java y desean fortalecer sus habilidades en POO y lógica de programación.*
 
