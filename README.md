@@ -24,3 +24,15 @@ El proyecto comprende la resolución de 10 ejercicios, cada uno diseñado para a
 3. Ejecuta el archivo `Main.java` ubicado en el paquete `matrices`.
 
 *Espero que este proyecto sea beneficioso para aquellos programadores que están dando sus primeros pasos al igual que yo en Java y desean fortalecer sus habilidades en POO y lógica de programación.*
+
+EJERCICIO 3
+https://drive.google.com/file/d/1XpjQ6NsuG7d1251-903JUdiNx_Z5YsRH/view?usp=drive_link
+
+EJERCICIO 5
+https://drive.google.com/file/d/176zhaj0fe0jY93uD7HjhuHo8g3pFPO9y/view?usp=drive_link
+
+EJERCICIO 6
+https://drive.google.com/file/d/1e7VuKMFuo7fJ7FOKPWk6cZ4s0M6m1QE9/view?usp=drive_link
+
+EJERCICIO 9 
+https://drive.google.com/file/d/1iHkZBADGdxBaEOykGShprsAqrKRug0NN/view?usp=drive_link
