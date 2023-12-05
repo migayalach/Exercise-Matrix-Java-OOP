@@ -26,13 +26,13 @@ El proyecto comprende la resolución de 10 ejercicios, cada uno diseñado para a
 *Espero que este proyecto sea beneficioso para aquellos programadores que están dando sus primeros pasos al igual que yo en Java y desean fortalecer sus habilidades en POO y lógica de programación.*
 
 EJERCICIO 3<br><br>
-<img src="./flowchart/three.png" alt="Ejercicio 3" width="450"/><br><br>
+<img src="./flowchart/three.png" alt="Ejercicio 3" width="375"/><br><br>
 
 EJERCICIO 5<br><br>
-<img src="./flowchart/five.png" alt="Ejercicio 3" width="450"/><br><br>
+<img src="./flowchart/five.png" alt="Ejercicio 3" width="375"/><br><br>
 
 EJERCICIO 6<br><br>
-<img src="./flowchart/six.png" alt="Ejercicio 3" width="450"/><br><br>
+<img src="./flowchart/six.png" alt="Ejercicio 3" width="375"/><br><br>
 
 EJERCICIO 9<br><br>
-<img src="./flowchart/nueve.png" alt="Ejercicio 3" width="300"/><br><br>
+<img src="./flowchart/nueve.png" alt="Ejercicio 3" width="250"/><br><br>
