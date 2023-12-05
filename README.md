@@ -19,7 +19,7 @@ El proyecto comprende la resolución de 10 ejercicios, cada uno diseñado para a
 
 ## Instrucciones de Ejecución
 
-1. Clona el repositorio:```bash
+1. Clona el repositorio:
 git clone https://github.com/migayalach/Exercise-Matrix-Java-OOP.git
 2. Abre el proyecto en tu entorno de desarrollo preferido.
 3. Ejecuta el archivo `Main.java` ubicado en el paquete `matrices`.
