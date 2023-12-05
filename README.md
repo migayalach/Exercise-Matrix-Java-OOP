@@ -1,4 +1,4 @@
-# Proyecto de Programación Orientada a Objetos en Java
+# Programación Orientada a Objetos en Java (Matrices)
 
 Este proyecto tiene como objetivo brindar práctica y experiencia en Programación Orientada a Objetos (POO), focalizándose en sus cuatro pilares fundamentales: **abstracción, encapsulamiento, herencia y polimorfismo**. Además, resalta la importancia del desarrollo de la lógica de programación y la implementación de diagramas de flujo.
 
